@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FacereCognitionApp/static/css/main.289c1db9.chunk.css",
+    "main.js": "/FacereCognitionApp/static/js/main.34bbc5bf.chunk.js",
+    "main.js.map": "/FacereCognitionApp/static/js/main.34bbc5bf.chunk.js.map",
+    "runtime-main.js": "/FacereCognitionApp/static/js/runtime-main.d7e24e79.js",
+    "runtime-main.js.map": "/FacereCognitionApp/static/js/runtime-main.d7e24e79.js.map",
+    "static/css/2.fe359a49.chunk.css": "/FacereCognitionApp/static/css/2.fe359a49.chunk.css",
+    "static/js/2.3d9fd380.chunk.js": "/FacereCognitionApp/static/js/2.3d9fd380.chunk.js",
+    "static/js/2.3d9fd380.chunk.js.map": "/FacereCognitionApp/static/js/2.3d9fd380.chunk.js.map",
+    "static/js/3.cb79ccad.chunk.js": "/FacereCognitionApp/static/js/3.cb79ccad.chunk.js",
+    "static/js/3.cb79ccad.chunk.js.map": "/FacereCognitionApp/static/js/3.cb79ccad.chunk.js.map",
+    "index.html": "/FacereCognitionApp/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/FacereCognitionApp/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.289c1db9.chunk.css.map": "/FacereCognitionApp/static/css/main.289c1db9.chunk.css.map",
+    "static/js/2.3d9fd380.chunk.js.LICENSE.txt": "/FacereCognitionApp/static/js/2.3d9fd380.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e24e79.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.3d9fd380.chunk.js",
+    "static/css/main.289c1db9.chunk.css",
+    "static/js/main.34bbc5bf.chunk.js"
+  ]
+}
